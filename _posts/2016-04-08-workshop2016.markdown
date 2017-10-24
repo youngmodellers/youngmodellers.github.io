@@ -1,0 +1,70 @@
+---
+title:  "2016 Workshop Announcement"
+date:   2016-02-21 15:08:23
+categories: [YoMos.de]
+tags: [YoMos.de]
+---
+<p>Dear YoMos,</p>
+
+<p>we are happy to announce time and location of the upcoming <font color="green"><b>11th YoMos-workshop</b></font>:</p>
+
+<table style="width:100%">
+ <tr>
+   <td>Time:</td>
+   <td><b>Tuesday the 10th to Friday the 13th of May 2016</b></td>
+ </tr>
+ <tr>
+   <td>Location:</td>
+   <td><a href="https://www.google.de/maps/place/Technische+Universit%C3%A4t+Dresden,+%C3%96kologische+Station+Neunzehnhain/@50.7258678,13.1524268,16.43z/data=!4m2!3m1!1s0x47a756d82e465d1f:0x3d0053d147f954aa"><b>Ecological Station "Neunzehnhain" of the TU Dresden</b></a></td>
+ </tr>
+ <tr>
+   <td>Fee:</td>
+   <td><b>40,–EUR</b></td>
+ </tr>    
+</table>
+
+<p>We are looking forward to interesting presentations by our keynote
+speakers covering a diverse range of ecological modelling:</p>
+
+<ul>
+ <li>
+   <p><a href="https://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_forst_geo_und_hydrowissenschaften/fachrichtung_forstwissenschaften/institute/ww/systemsanalysis/mitarbeiter/uta_berger">Uta Berger</a>
+– TU Dresden <br /> <em>Ecosystems Services &amp; Environmental Modelling</em></p>
+ </li>
+ <li>
+   <p><a href="http://www.icbm.de/mathematische-modellierung/">Bernd Blasius</a> – University of Oldenburg <br /> <em>Complex Ecosystem Modelling &amp; Marine Bioinvasions</em></p>
+ </li>
+ <li>
+   <p><a href="https://nationalzoo.si.edu/scbi/scientific_staff/staff_scientists.cfm?id=32">Justin Calabrese</a> – Smithsonian Conservation Biology Institute <br /> <em>Theoretical Ecology &amp; Movement Ecology</em></p>
+ </li>
+ <li>
+   <p><a href="http://www.bik-f.de/root/index.php?page_id=774">Thomas Müller</a> – BiK-F Frankfurt <br /> <em>Movement Ecology &amp; Biodiversity Conservation</em></p>
+ </li>
+ <li>
+   <p><a href="https://www.tu-braunschweig.de/geooekologie/abteilungen/usa/personal/boris_schroeder">Boris
+Schröder</a> – TU Braunschweig <br /> <em>Landscape Ecology, Biogeography &amp; Macroecology</em></p>
+ </li>
+ <li>
+   <p><a href="https://www.uni-goettingen.de/de/112103.html">Kerstin Wiegand</a> – University of Göttingen <br /> <em>Spatial Dynamics &amp; Patterns</em></p>
+ </li>
+</ul>
+
+<p>In addition, we decided to offer a <font color="green"><b>pre-workshop on data visualization in R</b></font>. The
+hands-on course will be before the YoMos-workshop, Sunday the 8th and Monday the
+9th of May 2016, and cost 25,– EUR.</p>
+
+<p>You can use the following link to send us your application for the workshop  until 23rd of March 2016:</p>
+
+<blockquote>
+ <p><a href="https://docs.google.com/forms/d/1hsP77xLiaPnRx81kGJYHSwgKPGRKopxPKmrnZvPaZfg/viewform">Application for the 11th YoMos Workshop</a></p>
+</blockquote>
+
+<p>If you are working in the field of ecological modelling as a Bachelor/Master/PhD
+student, you are welcome to present your work as a talk or poster and to
+exchange experiences and ideas with other young researchers and our invited
+keynote speakers!</p>
+
+<p>It would be great if you could circulate the information and save the date!</p>
+
+<p>With kind regards,  <br />
+The YoMos-Workshop Organisation Team</p>

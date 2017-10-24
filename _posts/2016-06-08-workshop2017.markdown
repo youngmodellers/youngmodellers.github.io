@@ -1,0 +1,75 @@
+---
+title:  "2017 Workshop Announcement"
+date:   2017-02-01 15:04:23
+categories: [YoMos.de]
+tags: [YoMos.de]
+---
+<p>Dear YoMos,</p>
+
+<p>we are happy to announce time and location of the upcoming  <b>12th YoMos-workshop</b></font>:</p>
+
+<p>
+<table style="width:100%">
+ <tr>
+   <td>Time:</td>
+   <td><b>Tuesday the 2nd to Friday the 5th of May 2017 (arrival on 1st of May)</b></td>
+ </tr>
+ <tr>
+   <td>Location:</td>
+   <td><a href="http://www.wiesneck.de"><b>“Studienhaus Wiesneck” in Buchenbach close to Freiburg</b></a></td>
+ </tr>
+ <tr>
+   <td>Fee:</td>
+   <td><b>100,–EUR</b></td>
+ </tr>    
+</table>
+</p>
+
+<p>We are looking forward to interesting presentations by our keynote
+speakers covering a diverse range of ecological modelling:</p>
+
+<ul>
+ <li>
+   <p><a href="http://www.bik-f.de/root/index.php?page_id=1046">Chloe Bracis</a>
+– Senckenberg Biodiversity and Climate Research Centre<br /> <em>Movement Ecology &amp; Individual-Based Modelling</em></p>
+ </li>
+ <li>
+   <p><a href="http://www.cctb.uni-wuerzburg.de/groups/ecological_modeling_sarmento_cabral/people/juliano_sarmento_cabral/">Juliano Sarmento Cabral</a> – University of Wuerzburg<br /> <em>Spatial Ecology &amp; Biogeography</em></p>
+ </li>
+ <li>
+   <p><a href="http://www.izw-berlin.de/dr-radchuk-viktoriia.html">Viktoriia Radchuk</a> – Leibniz Institute for Zoo and Wildlife Research<br /> <em>Community Dynamics &amp; Adaption</em></p>
+ </li>
+ <li>
+   <p><a href="http://www.ufz.de/index.php?en=41103">Thorsten Wiegand</a> – Helmholtz Centre for Environmental Research<br /> <em>Theoretical Spatial  Ecology &amp; Biodiversity Research </em></p>
+ </li>
+</ul>
+
+<p>If you are working in the field of ecological modelling as a Bachelor, Master or PhD student, you are welcome to present your work as a talk or poster. The workshop is a great place to exchange experiences and ideas with other young researchers and our invited keynote speakers as well as to present your research in a relaxed and open-minded atmosphere!</p>
+
+<p>You can use the following link to send us your application for the workshop until 31st of March 2017:</p>
+
+<blockquote>
+ <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSep1thCxqJiBcc2HMnt_pnhZmf-c1so9gKfEJPgVSk9-9abGg/viewform">Application for the 12th YoMos Workshop</a></p>
+</blockquote>
+
+<p>It would be great if you could circulate the information and save the date! </p>
+
+<p>With kind regards,  <br />
+The YoMos-Workshop Organisation Team</p>
+
+<table class="demo">
+	<tbody>
+	<tr>
+		<td>&nbsp;Cédric Scherer</td>
+		<td>&nbsp;Marco Sciaini</td>
+		<td>&nbsp;Theresa Stratmann</td>
+		<td>&nbsp;Stefan Reifenberg</td>
+	</tr>
+	<tr>
+		<td>&nbsp;IZW Berlin</td>
+		<td>&nbsp;University of Goettingen</td>
+		<td>&nbsp;BiK-F Frankfurt</td>
+		<td>&nbsp;University of Freiburg</td>
+	</tr>
+	</tbody>
+</table>
