@@ -1,8 +1,8 @@
 # Site settings
 title: YoMos
 description: 'Young Modellers in Ecology'
-# url: 'http://joshgerdes.com/jekyll-uno'
-# baseurl: '/'
+url: 'https://youngmodellers.github.io'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
