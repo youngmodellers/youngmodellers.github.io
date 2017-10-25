@@ -1,8 +1,8 @@
 ---
 title:  "Blog moving and new logo"
 date:   2016-02-21 15:04:23
-categories: [YoMos.de]
-tags: [YoMos.de]
+categories: [Announcement]
+tags: [Announcement, News]
 ---
 <p>The organizational team of the YoMos worked on the new design of our logo and we are proud to present to you our final version:</p>
 

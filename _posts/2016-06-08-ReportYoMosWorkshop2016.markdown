@@ -1,8 +1,8 @@
 ---
 title:  "Report YoMos Workshop 2016"
 date:   2016-05-30 15:04:23
-categories: [YoMos.de]
-tags: [YoMos.de]
+categories: [Report]
+tags: [Report, Workshop]
 ---
 This May I attended my first YoMos Workshop at the Ecological Station of the TU Dresden. I was not sure what to expect, but as a first year PhD student new to modeling I figured I would probably learn something. Now, with the workshop over, I am so glad I attended! It's an amazing place for graduate students to get together and think about modeling in an environment where it is easy to ask questions.
 

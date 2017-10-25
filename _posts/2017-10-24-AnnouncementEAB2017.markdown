@@ -1,8 +1,8 @@
 ---
 title:  "Thematic Topic Session and Meeting at the “Ecology Across Borders“ Symposium"
 date:   2017-10-24 10:45:23
-categories: [YoMos.de]
-tags: [YoMos.de]
+categories: [Announcement]
+tags: [Announcement, Conference, Meeting]
 ---
 We convene a session [“Are we any good at simulating ecology? Success and future challenges in ecological simulation models“](http://www.britishecologicalsociety.org/events/annual-meeting-2017/thematic-topic-ghent-2017/) at this year’s Joint Annual Meeting of the British Ecological Society (BES), NecoV and Gesellschaft für Ökologie (GfOe), in association with the European Ecological Federation (EEF), between 11<sup>th</sup> and 14<sup>th</sup> December 2017 in Ghent, Belgium. This session is organized and chaired together with the GfOe working group ["Computational Ecology"](https://akcomputationalecology.wordpress.com/) and the BES working group ["Quantitative Ecology"](https://besquantitativeecology.wordpress.com/) and is going to take place on **Thursday, 14<sup>th</sup> December 2017, 9:45 a.m.**. We are looking forward to exciting talks of our invited speakers:
 

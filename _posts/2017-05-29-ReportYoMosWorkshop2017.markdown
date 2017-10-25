@@ -1,8 +1,8 @@
 ---
 title:  "Reflections YoMos Workshop 2017"
 date:   2017-05-29 10:04:23
-categories: [YoMos.de]
-tags: [YoMos.de]
+categories: [Report]
+tags: [Report, Workshop]
 ---
 Two weeks ago I have attended the meeting of Young Modellers in Ecology (YoMos). It was my first time at YoMos meeting and I truly enjoyed it! The meeting was four days long, but I could only join during the last three days.
 

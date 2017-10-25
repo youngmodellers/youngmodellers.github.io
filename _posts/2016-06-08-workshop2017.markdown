@@ -1,8 +1,8 @@
 ---
 title:  "2017 Workshop Announcement"
 date:   2017-02-01 15:04:23
-categories: [YoMos.de]
-tags: [YoMos.de]
+categories: [Announcement]
+tags: [Announcement, Workshop]
 ---
 <p>Dear YoMos,</p>
 
