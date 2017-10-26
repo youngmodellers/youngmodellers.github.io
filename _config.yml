@@ -1,8 +1,8 @@
 # Site settings
 title: YoMos
 description: 'Young Modellers in Ecology'
-url: 'https://youngmodellers.github.io'
-baseurl: ''
+baseurl: 'https://youngmodellers.github.io'
+
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
